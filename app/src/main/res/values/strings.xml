@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">trace_back_nfc</string>
+    <string name="nfc_read_button">nfc_read_button</string>
+    <string name="nfc_write_button">nfc_write_button</string>
+    <string name="nfc_read_edittext">讀取資訊</string>
+    <string name="nfc_write_edittext">寫入資訊</string>
+    <string name="nfc_error_edittext">NFC錯誤資訊</string>
+
+    <string name="mqtt_supply_chain_button">MQTT觸發產品供應鏈階段任務</string>
+    <string name="mqtt_error_edittext">MQTT錯誤資訊</string>
+</resources>

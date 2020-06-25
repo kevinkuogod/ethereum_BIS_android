@@ -1,0 +1,2 @@
+rootProject.name='trace_back_nfc'
+include ':app'
